@@ -6,6 +6,11 @@ A modern iOS application built with SwiftUI and modular architecture using Swift
 
 RoadmapUserProject is a scalable iOS application that demonstrates clean architecture principles with a modular approach. The project is structured using local Swift packages to ensure separation of concerns, reusability, and maintainability.
 
+## Demo
+
+<img src="images/1.png" width="400" />
+<img src="images/2.png" width="400" />
+
 ## 🏗 Architecture
 
 The project follows a modular architecture pattern with clear separation between different layers:
@@ -187,7 +192,7 @@ To view test coverage:
 
 The app implements a simple authentication flow:
 
-1. **Login Screen** 
+1. **Login Screen**
    - Email/password authentication
    - Demo credentials for testing
    - Input validation
