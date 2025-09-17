@@ -143,7 +143,7 @@ dependencies: [
 
    let package = Package(
        name: "YourFeature",
-       platforms: [.iOS(.v16)],
+       platforms: [.iOS(.v17)],
        products: [
            .library(name: "YourFeature", targets: ["YourFeature"])
        ],
@@ -301,7 +301,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **Your Name** - *Initial work* - [GitHub](https://github.com/yourusername)
+- **lexuanquynh** - *Initial work* - [GitHub](https://github.com/lexuanquynh)
 
 ## 🙏 Acknowledgments
 
@@ -311,7 +311,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@yourproject.com or open an issue in the GitHub repository.
+For support, email codetoanbug@codetoanbug.com or open an issue in the GitHub repository.
 
 ## 🗺 Roadmap
 
@@ -320,18 +320,6 @@ For support, email support@yourproject.com or open an issue in the GitHub reposi
 - [x] Modular architecture
 - [x] Login screen
 - [x] Home screen
-
-### Version 1.1 (Planned)
-- [ ] Profile management
-- [ ] Settings screen
-- [ ] Push notifications
-- [ ] Biometric authentication
-
-### Version 2.0 (Future)
-- [ ] Social login
-- [ ] Offline support
-- [ ] Data synchronization
-- [ ] Advanced analytics
 
 ---
 
